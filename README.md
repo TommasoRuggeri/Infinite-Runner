@@ -1,2 +1,3 @@
 # Infinite Runner
- An Infinite Runner game for 2 players made with Unity for the internal Game Jam of my Acamdey (AIV)
+An Infinite Runner game for 2 players made with Unity in 48 hours for the internal Game Jam of my Academy (AIV) during the second year.The game requires two players. The aim of the game is to reach the highest possible score. The top and bottom players will need to work together to take the globes of light scattered around the path and illuminate the path. To do this it is necessary that both players have globes and that the "alpha1" key is pressed simultaneously. 
+To play the game just download the code and open it with Unity, the jump keys are "space" for the upper player and "a" for the bottom player.
